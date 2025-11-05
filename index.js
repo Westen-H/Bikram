@@ -24,7 +24,6 @@ let b = 3;
 // let a = 3;
 // let b = 5;
 
-
 //  4.- Dado el objeto HIGH_TEMPERATURES
   // Cambiar las siguientes líneas para guardar mediante destructuración los valores de temperaturas en las variables maximaHoy y maximaManana
   // const maximaHoy = HIGH_TEMPERATURES.today;
